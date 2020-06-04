@@ -3,7 +3,8 @@ import cors from 'cors';
 import path from 'path';
 import routes from './routes';
 
-const app = express()
+const app = express();
+const ip = '192.168.15.13';
 
 app.use(cors());
 app.use(express.json()); //use json formtat
