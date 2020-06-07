@@ -6,17 +6,21 @@
 
 Application created in react to show the user recyclable garbage collection points next to him.
 
+
+
 ## Screens
 
-<h3 align="center" > 
 ### Web
 ------
-<img src="img/webfront.png" witdh="250px" />
+<p align="center">
+  <img width="460" height="300" src="img/webfront.png">
+</p>
 
 ### Mobile
 ------
-<img src="img/cell.png" heigth="100px" />
-</h3>
+<p align="center">
+  <img width="460" height="300" src="img/cell.png">
+</p>
 
 ## Tecnologies
 
