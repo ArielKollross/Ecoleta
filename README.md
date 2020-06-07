@@ -19,7 +19,7 @@ Application created in react to show the user recyclable garbage collection poin
 ### Mobile
 ------
 <p align="center">
-  <img width="460" height="300" src="img/cell.png">
+  <img width="200" height="350" src="img/cell.png">
 </p>
 
 ## Tecnologies
