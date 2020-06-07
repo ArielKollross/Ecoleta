@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-    <a href="https://github.com/ArielKollross/Ecoleta/blob/master/LICENSE">
-        <img alt="GitHub license" 
-        src="https://github.com/ArielKollross/Ecoleta/blob/master/LICENSE?color=sucess">
-    </a>
 	<a href="https://github.com/ArielKollross/Ecoleta">
 	    <img src="https://img.shields.io/badge/author-ArielKollross-purple">
 	</a>
@@ -35,7 +31,7 @@ The centers of collections can be register on web site, then offer an users dife
 ### Mobile
 
 <p align="center">
-  <img width="100"" src="img/cell.png">
+  <img width="170" src="img/cell.png">
 </p>
 
 ## Tecnologies
