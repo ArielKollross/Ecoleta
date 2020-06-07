@@ -2,22 +2,38 @@
 <img src="web/src/assets/logo.svg" width="250px" />
 </h1>
 
+<p align="center">
+    <a href="https://github.com/ArielKollross/Ecoleta/blob/master/LICENSE">
+        <img alt="GitHub license" 
+        src="https://github.com/ArielKollross/Ecoleta/blob/master/LICENSE?color=sucess">
+    </a>
+	<a href="https://github.com/ArielKollross/Ecoleta">
+	    <img src="https://img.shields.io/badge/author-ArielKollross-purple">
+	</a>
+    <a href="https://github.com/ArielKollross/Ecoleta/search?l=typescript">
+	    <img src="https://img.shields.io/badge/made%20with-TypeScript-blue">
+	</a>
+</p>
+
 ## Resume
 
-Application created in react to show the user recyclable garbage collection points next to him.
+React and React Native application with API REST back end. 
 
+We purpose connect people to locations that have recyclable garbage collection points. The users can find these points using the mobile app and the geolocation.
+
+The centers of collections can be register on web site, then offer an users diferent types of recyclable garbage points, like eletronics spots, organic waste, lamps, cooking oil and so forth.
 
 
 ## Screens
 
 ### Web
-======
+
 <p align="center">
   <img width="460" height="300" src="img/webfront.png">
 </p>
 
 ### Mobile
-======
+
 <p align="center">
   <img width="100"" src="img/cell.png">
 </p>
