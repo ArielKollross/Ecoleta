@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/ArielKollross/Ecoleta">
+	<a href="https://github.com/ArielKollross">
 	    <img src="https://img.shields.io/badge/author-ArielKollross-purple">
 	</a>
     <a href="https://github.com/ArielKollross/Ecoleta/search?l=typescript">
