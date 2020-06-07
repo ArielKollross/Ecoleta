@@ -2,7 +2,7 @@
 <img src="web/src/assets/logo.svg" width="250px" />
 </h1>
 
-#Resume
+##Resume
 
 Application created in react to show the user recyclable garbage collection points next to him.
 
