@@ -8,11 +8,15 @@ Application created in react to show the user recyclable garbage collection poin
 
 ## Screens
 
+<h3 align="center" > 
 ### Web
-<img src="img/webfront.png" witdh="300px" />
+------
+<img src="img/webfront.png" witdh="250px" />
 
 ### Mobile
-<img src="img/cell.png" heigth="150px" />
+------
+<img src="img/cell.png" heigth="100px" />
+</h3>
 
 ## Tecnologies
 
