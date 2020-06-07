@@ -9,9 +9,11 @@ Application created in react to show the user recyclable garbage collection poin
 ## Screens
 
 ### Web
-<img src="img/webfront.png" witdh="400px" />
+<img src="img/webfront.png" witdh="300px" />
+
 ### Mobile
-<img src="img/cell.png" heigth="300px" />
+<img src="img/cell.png" heigth="150px" />
+
 ## Tecnologies
 
 This applications was built with the following technologies.
