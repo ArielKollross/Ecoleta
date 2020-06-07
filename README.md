@@ -2,19 +2,25 @@
 <img src="web/src/assets/logo.svg" width="250px" />
 </h1>
 
-##Resume
+## Resume
 
 Application created in react to show the user recyclable garbage collection points next to him.
 
+## Screens
+
+### Web
+
+### Mobile
 
 ## Tecnologies
 
 This applications was built with the following technologies.
 
+- [Type Script](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 
-## :memo: Licença
+## :memo: Licence
 
 This project use MIT license, see the file [LICENSE](LICENSE) for more details.
