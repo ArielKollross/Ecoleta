@@ -9,9 +9,9 @@ Application created in react to show the user recyclable garbage collection poin
 ## Screens
 
 ### Web
-
+<img src="img/webfront.png" witdh="400px" />
 ### Mobile
-
+<img src="img/cell.png" heigth="300px" />
 ## Tecnologies
 
 This applications was built with the following technologies.
@@ -21,6 +21,6 @@ This applications was built with the following technologies.
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 
-## :memo: Licence
+## :memo: License
 
 This project use MIT license, see the file [LICENSE](LICENSE) for more details.
